@@ -1,4 +1,4 @@
-# Hi, I'm [Alireza MOhebbi] 👋
+# Hi, I'm Alireza Mohebbi 👋
 
 🎮 I'm a Game Developer, focused on Gameplay Programming.
 
